@@ -19,13 +19,15 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Sid Kiblawi
-email: sidkiblawi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Machine Learning Enthusiast, Researcher, and Practitioner
+    Machine Learning Researcher and Practitioner
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sidkiblawi
 github_username:  sidkiblawi
+linkedin_username: sidkiblawi
+facebook_username: sidkiblawi
+instagram_username: sidkiblawi
 
 # Build settings
 theme: minima
