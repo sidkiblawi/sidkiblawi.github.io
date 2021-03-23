@@ -23,6 +23,8 @@ description: >- # this means to ignore newlines until "baseurl:"
     Machine Learning Researcher and Practitioner
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+timezone: America/Los_Angeles
+
 twitter_username: sidkiblawi
 github_username:  sidkiblawi
 linkedin_username: sidkiblawi
