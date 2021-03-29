@@ -9,6 +9,21 @@
     {%- include google-analytics.html -%}
   {%- endif -%}
   {%- if page.use_math -%}
-      {% include mathjax_support %}
+  <!-- Mathjax -->
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      TeX: {
+        equationNumbers: {
+          autoNumber: "AMS"
+        }
+      },
+      tex2jax: {
+        inlineMath: [ ['$', '$'] ],
+        displayMath: [ ['$$', '$$'], ['\\[', '\\]'] ],
+        processEscapes: true,
+      }
+    });
+  </script>
+  <script type="text/javascript" src="{{ site.cdn.mathjax }}"></script>
   {%- endif -%}
 </head>
