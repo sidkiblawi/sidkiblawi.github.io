@@ -1,5 +1,5 @@
 ---
 layout: post
-title:  "Traching The Transformer"
+title:  "Tracing The Transformer"
 categories: 👨‍💻
 ---
