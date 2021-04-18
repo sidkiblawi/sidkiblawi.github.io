@@ -6,4 +6,4 @@ categories: 👋
 ---
 Welcome to my blog. I plan on having posts about various machine learning topics.
 
-![](/assets/images/tracing-the-transformer/self_attention.gif)
+![Self Attention Diagram](/assets/images/tracing-the-transformer/self_attention.gif)
