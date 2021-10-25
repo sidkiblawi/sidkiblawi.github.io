@@ -10,7 +10,7 @@ permalink: /about/
 * Research Assistant, University of Wisconsin-Madison, Mark Craven Research Group, Madison, WI (September 2014 - May 2019)
 
 ## Education 👨‍🎓
-* Doctor of Philosophy, Computer Sciences, University of Wisconsin-Madison, Madison, WI, Completed 2019
-* Master of Sciences, Computer Sciences, University of Wisconsin-Madison, Madison, WI, Completed 2014
-* Master of Sciences, Bioinformatics, Marquette University, Milwaukee, WI, Completed 2012
-* Bachelor of Sciences, Genetics and Biology (Double Major), University of Wisconsin-Madison, Madison, WI, Completed 2010
+* Doctor of Philosophy, Computer Sciences, University of Wisconsin-Madison, Madison, WI, Degree Received 2019
+* Master of Sciences, Computer Sciences, University of Wisconsin-Madison, Madison, WI, Degree Received 2014
+* Master of Sciences, Bioinformatics, Marquette University, Milwaukee, WI, Degree Received 2012
+* Bachelor of Sciences, Genetics and Biology (Double Major), University of Wisconsin-Madison, Madison, WI, Degree Received 2010
