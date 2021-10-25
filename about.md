@@ -5,8 +5,9 @@ permalink: /about/
 ---
 
 ## Experience 👨‍💻
-* Research Scientist and Machine Learning Engineer, Facebook Inc., Dangerous Organizations and Individuals, Seattle, WA (Current Position)
-* Research Assistant, University of Wisconsin-Madison, Mark Craven Research Group, Madison, WI
+* Senior Applied and Data Scientist, Microsoft Inc., Health and Life Sciences AI, Redmond, WA (Current Position)
+* Research Scientist and Machine Learning Engineer, Facebook Inc., Dangerous Organizations and Individuals, Seattle, WA (June 2019 - September 2021)
+* Research Assistant, University of Wisconsin-Madison, Mark Craven Research Group, Madison, WI (September 2014 - May 2019)
 
 ## Education 👨‍🎓
 * Doctor of Philosophy, Computer Sciences, University of Wisconsin-Madison, Madison, WI, Completed 2019
