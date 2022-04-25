@@ -5,12 +5,26 @@ permalink: /about/
 ---
 
 ## Experience 👨‍💻
-* Senior Applied and Data Scientist, Microsoft Corporation, Health and Life Sciences AI, Redmond, WA (Current Position)
-* Research Scientist and Machine Learning Engineer, Facebook, Inc., Dangerous Organizations and Individuals, Seattle, WA (June 2019 - September 2021)
-* Research Assistant, University of Wisconsin-Madison, Mark Craven Research Group, Madison, WI (September 2014 - May 2019)
+* __Senior Applied and Data Scientist, Microsoft__ <br />
+Health and Life Sciences AI<br />
+Redmond, WA (Current Position)
+* __Research Scientist and Machine Learning Engineer, Facebook__ <br /> 
+Dangerous Organizations and Individuals <br />
+Seattle, WA (June 2019 - September 2021)
+* __Research Assistant, University of Wisconsin-Madison__<br /> 
+Mark Craven Research Group <br /> 
+Madison, WI (September 2014 - May 2019)
 
 ## Education 👨‍🎓
-* Doctor of Philosophy, Computer Sciences, University of Wisconsin-Madison, Madison, WI, Degree Received 2019
-* Master of Sciences, Computer Sciences, University of Wisconsin-Madison, Madison, WI, Degree Received 2014
-* Master of Sciences, Bioinformatics, Marquette University, Milwaukee, WI, Degree Received 2012
-* Bachelor of Sciences, Genetics and Biology (Double Major), University of Wisconsin-Madison, Madison, WI, Degree Received 2010
+* __Doctor of Philosophy, Computer Sciences__ <br/>
+University of Wisconsin-Madison <br/>
+Madison, WI, Degree Received 2019
+* __Master of Sciences, Computer Sciences__ <br/> 
+University of Wisconsin-Madison <br/> 
+Madison, WI, Degree Received 2014
+* __Master of Sciences, Bioinformatics__ <br/>
+Marquette University <br/> 
+Milwaukee, WI, Degree Received 2012
+* __Bachelor of Sciences, Genetics and Biology (Double Major)__ <br/> 
+University of Wisconsin-Madison <br/>
+Madison, WI, Degree Received 2010
