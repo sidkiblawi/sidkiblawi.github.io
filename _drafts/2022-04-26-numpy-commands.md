@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  "Numpy Arrays and Pytorch Tensors"
+title:  "NumPy Arrays and PyTorch Tensors"
 categories: Machine Learning
 ---
 
-### Some useful code snippets for Numpy and Pytorch
+### Some useful code snippets for NumPy and PyTorch
 
+```python
+import numpy as np
+```

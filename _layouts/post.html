@@ -19,8 +19,11 @@ layout: default
     {{ content }}
   </div>
 
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
+  {%- if page.draft -%}
+  <div>Draft doesn't have comments enabled.</div>
+  {%- else -%}
+  <script src="https://utteranc.es/client.js" repo="sidkiblawi/sidkiblawi.github.io" issue-term="pathname"
+          theme="github-light" crossorigin="anonymous" async></script>
   {%- endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
