@@ -8,6 +8,7 @@ permalink: /about/
 * __Senior Applied and Data Scientist, Microsoft__ <br />
 Health and Life Sciences AI<br />
 Redmond, WA (Current Position)
+Working Remote from Milwaukee, WI
 * __Research Scientist and Machine Learning Engineer, Facebook__ <br /> 
 Dangerous Organizations and Individuals <br />
 Seattle, WA (June 2019 - September 2021)
