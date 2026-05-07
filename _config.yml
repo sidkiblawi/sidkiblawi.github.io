@@ -40,10 +40,27 @@ plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-seo-tag # Create SEO tags
-  - jekyll-paginate # Paginate
+  - jekyll-paginate-v2 # Paginate (v2 supports paginating any page)
 
-paginate: 5
-paginate_path: page:num/
+# Defaults applied to all posts. Override `private` in a post's front matter.
+# When JEKYLL_ENV=public, _plugins/private_posts.rb removes posts with
+# `private: true` from the build (used by the public Cloudflare Pages site).
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      private: false
+
+# jekyll-paginate-v2 site-wide defaults
+# Enable per-page by adding `pagination: { enabled: true }` in front matter.
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: '/page/:num/'
+  title: ':title - page :num'
+  sort_field: 'date'
+  sort_reverse: true
 
 cdn:
   mathjax:        https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML
