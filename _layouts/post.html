@@ -21,6 +21,8 @@ layout: default
 
   {%- if page.draft -%}
   <div>Draft doesn't have comments enabled.</div>
+  {%- elsif page.collection == "private_thoughts" -%}
+  {%- comment -%}Private thoughts are encrypted; no comments.{%- endcomment -%}
   {%- else -%}
   <script src="https://utteranc.es/client.js" repo="sidkiblawi/sidkiblawi.github.io" issue-term="pathname"
           theme="github-light" crossorigin="anonymous" async></script>
