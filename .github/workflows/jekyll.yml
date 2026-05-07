@@ -48,16 +48,39 @@ jobs:
         env:
           STATICRYPT_PASSWORD: ${{ secrets.STATICRYPT_PASSWORD }}
         run: |
-          if [ -z "$STATICRYPT_PASSWORD" ]; then
+          set -euo pipefail
+          if [ -z "${STATICRYPT_PASSWORD:-}" ]; then
             echo "::error::STATICRYPT_PASSWORD repo secret is not set."
             exit 1
           fi
-          npx -y staticrypt \
-            --recursive _site/private-thoughts \
-            --password "$STATICRYPT_PASSWORD" \
-            --short \
-            --remember 30 \
-            --directory _site/private-thoughts
+          shopt -s globstar nullglob
+          files=(_site/private-thoughts/**/*.html _site/private-thoughts/*.html)
+          # de-duplicate (the two globs may overlap)
+          mapfile -t files < <(printf '%s\n' "${files[@]}" | sort -u)
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "::error::No HTML files found under _site/private-thoughts/."
+            exit 1
+          fi
+          echo "Found ${#files[@]} file(s) to encrypt:"
+          printf '  %s\n' "${files[@]}"
+          # Encrypt each file one at a time, writing the encrypted output
+          # back over the original (staticrypt -d <dir> writes to <dir>/<basename>).
+          for f in "${files[@]}"; do
+            dir=$(dirname "$f")
+            echo "Encrypting: $f"
+            npx -y staticrypt@3 "$f" \
+              --password "$STATICRYPT_PASSWORD" \
+              --remember 30 \
+              --directory "$dir"
+          done
+          echo "--- Verifying encryption ---"
+          if grep -q 'staticrypt_encrypted_msg\|encryptedMsg' _site/private-thoughts/index.html; then
+            echo "OK: index.html is encrypted."
+          else
+            echo "::error::index.html does not appear to be encrypted."
+            head -60 _site/private-thoughts/index.html
+            exit 1
+          fi
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
