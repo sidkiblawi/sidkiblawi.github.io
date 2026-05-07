@@ -34,6 +34,11 @@ instagram_username: sidkiblawi
 
 show_excerpts: true
 
+# Pages that appear in the site header nav.
+# Any page not listed here is hidden from the nav (still accessible by URL).
+header_pages:
+  - about.md
+
 # Build settings
 theme: minima
 plugins:
@@ -41,6 +46,15 @@ plugins:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-seo-tag # Create SEO tags
   - jekyll-paginate-v2 # Paginate (v2 supports paginating any page)
+
+# Custom collections.
+# `private_thoughts` is a private collection encrypted with staticrypt at
+# build time. The CI workflow encrypts everything under _site/private-thoughts/
+# after Jekyll builds it, so visitors hit a password prompt.
+collections:
+  private_thoughts:
+    output: true
+    permalink: /private-thoughts/:path/
 
 # Defaults applied to all posts. Override `private` in a post's front matter.
 # When JEKYLL_ENV=public, _plugins/private_posts.rb removes posts with
@@ -51,6 +65,12 @@ defaults:
       type: posts
     values:
       private: false
+  - scope:
+      path: ""
+      type: private_thoughts
+    values:
+      layout: post
+      sitemap: false # keep these out of sitemap.xml so search engines ignore them
 
 # jekyll-paginate-v2 site-wide defaults
 # Enable per-page by adding `pagination: { enabled: true }` in front matter.

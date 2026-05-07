@@ -39,6 +39,26 @@ jobs:
           JEKYLL_ENV: production
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Encrypt private-thoughts with staticrypt
+        env:
+          STATICRYPT_PASSWORD: ${{ secrets.STATICRYPT_PASSWORD }}
+        run: |
+          if [ -z "$STATICRYPT_PASSWORD" ]; then
+            echo "::error::STATICRYPT_PASSWORD repo secret is not set."
+            exit 1
+          fi
+          npx -y staticrypt \
+            --recursive _site/private-thoughts \
+            --password "$STATICRYPT_PASSWORD" \
+            --short \
+            --remember 30 \
+            --directory _site/private-thoughts
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:
