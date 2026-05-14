@@ -34,10 +34,16 @@ instagram_username: sidkiblawi
 
 show_excerpts: true
 
-# Pages that appear in the site header nav.
-# Any page not listed here is hidden from the nav (still accessible by URL).
+# Silence noisy Sass deprecation warnings from minima 2.5's old division syntax.
+sass:
+  quiet_deps: true
+  silence_deprecations:
+    - slash-div
+
+# Pages that appear in the site header nav, in order.
+# The site title (top-left) always links to the homepage (About).
 header_pages:
-  - about.md
+  - blog.md
 
 # Build settings
 theme: minima
