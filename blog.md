@@ -2,6 +2,7 @@
 layout: page
 title: Blog
 permalink: /blog/
+hide_title: true
 ---
 
 <ul class="post-list">
