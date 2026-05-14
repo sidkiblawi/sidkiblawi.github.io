@@ -3,3 +3,11 @@
 ---
 
 @import "minima";
+
+// Prevent layout shift between short and tall pages by always reserving
+// space for the vertical scrollbar. Fixes content recentering jump
+// observed in Edge/Chromium when navigating between e.g. Blog and About.
+html {
+  scrollbar-gutter: stable;
+  overflow-y: scroll; // fallback for browsers without scrollbar-gutter
+}
