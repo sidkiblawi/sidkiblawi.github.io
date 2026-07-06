@@ -161,7 +161,6 @@ everything they needed and were miserable about it anyway. God forbid college be
 The underground records that everyone else went on to copy. Loose, tossed-off,
 and much smarter than they let on.
 
-- **The Replacements – Let It Be** — [Apple Music](https://music.apple.com/us/album/let-it-be/162563989) · [Spotify](https://open.spotify.com/search/The%20Replacements%20Let%20It%20Be)
 - **Pavement – Slanted and Enchanted** — [Apple Music](https://music.apple.com/us/search?term=Pavement%20Slanted%20and%20Enchanted) · [Spotify](https://open.spotify.com/search/Pavement%20Slanted%20and%20Enchanted)
 - **My Morning Jacket – It Still Moves** — [Apple Music](https://music.apple.com/us/album/it-still-moves/278818185) · [Spotify](https://open.spotify.com/search/My%20Morning%20Jacket%20It%20Still%20Moves)
 
