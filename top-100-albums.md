@@ -233,5 +233,6 @@ move, and which take that ambition extremely seriously.
 Let's play that Guitar. No big statement, no scene, no era to represent,
 just an extraordinary command of the instrument that rewards close listening.
 
+- **Steely Dan – Can't Buy a Thrill** — [Apple Music](https://music.apple.com/us/search?term=Steely%20Dan%20Can%27t%20Buy%20a%20Thrill) · [Spotify](https://open.spotify.com/search/Steely%20Dan%20Can%27t%20Buy%20a%20Thrill)
 - **John Mayer – Continuum** — [Apple Music](https://music.apple.com/us/search?term=John%20Mayer%20Continuum) · [Spotify](https://open.spotify.com/search/John%20Mayer%20Continuum)
 - **Sturgill Simpson – Metamodern Sounds in Country Music** — [Apple Music](https://music.apple.com/us/search?term=Sturgill%20Simpson%20Metamodern%20Sounds%20in%20Country%20Music) · [Spotify](https://open.spotify.com/search/Sturgill%20Simpson%20Metamodern%20Sounds%20in%20Country%20Music)
