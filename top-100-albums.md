@@ -167,7 +167,7 @@ and much smarter than they let on.
 ## Rage as Genre
 
 Confrontational guitar records where the political content isn't garnish, it's
-the whole meal. These songs remind me of one thing and one thing only... Tony Hawk's Pro Skater 2.
+the whole meal. I cant head Guerrilla Radio without thinking of one thing and one thing only... Tony Hawk's Pro Skater 2.
 
 - **The Clash – London Calling** — [Apple Music](https://music.apple.com/us/search?term=The%20Clash%20London%20Calling) · [Spotify](https://open.spotify.com/search/The%20Clash%20London%20Calling)
 - **Rage Against the Machine – The Battle of Los Angeles** — [Apple Music](https://music.apple.com/us/search?term=Rage%20Against%20the%20Machine%20The%20Battle%20of%20Los%20Angeles) · [Spotify](https://open.spotify.com/search/Rage%20Against%20the%20Machine%20The%20Battle%20of%20Los%20Angeles)
