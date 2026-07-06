@@ -93,7 +93,7 @@ architecture, worldly stakes. We all live in different Americas.
 Records that briefly became the weather. You don't argue with them; you
 remember where you were.
 
-- **Michael Jackson – Dangerous** — [Apple Music](https://music.apple.com/us/search?term=Michael%20Jackson%20Dangerous) · [Spotify](https://open.spotify.com/search/Michael%20Jackson%20Dangerous)
+- **Michael Jackson – Bad** — [Apple Music](https://music.apple.com/us/search?term=Michael%20Jackson%20Bad) · [Spotify](https://open.spotify.com/search/Michael%20Jackson%20Bad)
 - **Adele – 21** — [Apple Music](https://music.apple.com/us/search?term=Adele%2021) · [Spotify](https://open.spotify.com/search/Adele%2021)
 - **Taylor Swift – 1989** — [Apple Music](https://music.apple.com/us/search?term=Taylor%20Swift%201989) · [Spotify](https://open.spotify.com/search/Taylor%20Swift%201989)
 - **Beyoncé – Lemonade** — [Apple Music](https://music.apple.com/us/search?term=Beyonc%C3%A9%20Lemonade) · [Spotify](https://open.spotify.com/search/Beyonc%C3%A9%20Lemonade)
@@ -122,7 +122,7 @@ ambition takes precedence over any single single. Poetry with beats.
 - **The Roots – Things Fall Apart** — [Apple Music](https://music.apple.com/us/search?term=The%20Roots%20Things%20Fall%20Apart) · [Spotify](https://open.spotify.com/search/The%20Roots%20Things%20Fall%20Apart)
 - **Jay-Z – The Black Album** — [Apple Music](https://music.apple.com/us/search?term=Jay-Z%20The%20Black%20Album) · [Spotify](https://open.spotify.com/search/Jay-Z%20The%20Black%20Album)
 - **A Tribe Called Quest – We Got It From Here… Thank You 4 Your Service** — [Apple Music](https://music.apple.com/us/search?term=A%20Tribe%20Called%20Quest%20We%20Got%20It%20From%20Here%E2%80%A6%20Thank%20You%204%20Your%20Service) · [Spotify](https://open.spotify.com/search/A%20Tribe%20Called%20Quest%20We%20Got%20It%20From%20Here%E2%80%A6%20Thank%20You%204%20Your%20Service)
-- **Madvillain – Madvillainy** — [Apple Music](https://music.apple.com/us/search?term=Madvillain%20Madvillainy) · [Spotify](https://open.spotify.com/search/Madvillain%20Madvillainy)
+- **Madvillain, Madlib, MF DOOM – Madvillainy** — [Apple Music](https://music.apple.com/us/search?term=Madvillain%20Madvillainy) · [Spotify](https://open.spotify.com/search/Madvillain%20Madvillainy)
 - **OutKast – Stankonia** — [Apple Music](https://music.apple.com/us/search?term=OutKast%20Stankonia) · [Spotify](https://open.spotify.com/search/OutKast%20Stankonia)
 - **Kendrick Lamar – good kid, m.A.A.d city** — [Apple Music](https://music.apple.com/us/search?term=Kendrick%20Lamar%20good%20kid%2C%20m.A.A.d%20city) · [Spotify](https://open.spotify.com/search/Kendrick%20Lamar%20good%20kid%2C%20m.A.A.d%20city)
 - **Kendrick Lamar – To Pimp a Butterfly** — [Apple Music](https://music.apple.com/us/search?term=Kendrick%20Lamar%20To%20Pimp%20a%20Butterfly) · [Spotify](https://open.spotify.com/search/Kendrick%20Lamar%20To%20Pimp%20a%20Butterfly)
