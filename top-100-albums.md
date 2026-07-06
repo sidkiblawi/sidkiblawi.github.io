@@ -19,7 +19,7 @@ Some of my criteria:
 
 ---
 
-## 1. The Diary Kept in a Locked Drawer
+## The Diary Kept in a Locked Drawer
 
 Records where the whole point is that one person is telling you the truth,
 usually with the smallest possible arrangement standing between their voice
@@ -32,7 +32,7 @@ and your ear. Loneliness as craft. Its moody, deal with it.
 - **Bon Iver – For Emma, Forever Ago** — [Apple Music](https://music.apple.com/us/search?term=Bon%20Iver%20For%20Emma%2C%20Forever%20Ago) · [Spotify](https://open.spotify.com/search/Bon%20Iver%20For%20Emma%2C%20Forever%20Ago)
 - **Bon Iver – 22, A Million** — [Apple Music](https://music.apple.com/us/search?term=Bon%20Iver%2022%2C%20A%20Million) · [Spotify](https://open.spotify.com/search/Bon%20Iver%2022%2C%20A%20Million)
 
-## 2. Poets with a Backing Band
+## Poets with a Backing Band
 
 Songwriters whose ambitions are literary: Narrative, image-dense, and often a
 little strange. The words carry the weight; the band is there to catch them.
@@ -42,7 +42,7 @@ little strange. The words carry the weight; the band is there to catch them.
 - **Neutral Milk Hotel – In the Aeroplane Over the Sea** — [Apple Music](https://music.apple.com/us/search?term=Neutral%20Milk%20Hotel%20In%20the%20Aeroplane%20Over%20the%20Sea) · [Spotify](https://open.spotify.com/search/Neutral%20Milk%20Hotel%20In%20the%20Aeroplane%20Over%20the%20Sea)
 - **Wilco – Yankee Hotel Foxtrot** — [Apple Music](https://music.apple.com/us/search?term=Wilco%20Yankee%20Hotel%20Foxtrot) · [Spotify](https://open.spotify.com/search/Wilco%20Yankee%20Hotel%20Foxtrot)
 
-## 3. The Studio as Cathedral
+## The Studio as Cathedral
 
 Albums built painstakingly at the mixing board, where the production is the
 argument. You could play these records with the vocals stripped out and they
@@ -57,7 +57,7 @@ would still be about something. I know this because with Radiohead I have no ide
 - **Kanye West – Late Registration** — [Apple Music](https://music.apple.com/us/search?term=Kanye%20West%20Late%20Registration) · [Spotify](https://open.spotify.com/search/Kanye%20West%20Late%20Registration)
 - **Kanye West – My Beautiful Dark Twisted Fantasy** — [Apple Music](https://music.apple.com/us/search?term=Kanye%20West%20My%20Beautiful%20Dark%20Twisted%20Fantasy) · [Spotify](https://open.spotify.com/search/Kanye%20West%20My%20Beautiful%20Dark%20Twisted%20Fantasy)
 
-## 4. Rock's Founding Myths
+## Rock's Founding Myths
 
 The canon everyone else was reacting to. Classics for a reason.
 
@@ -69,14 +69,14 @@ The canon everyone else was reacting to. Classics for a reason.
 - **David Bowie – The Rise and Fall of Ziggy Stardust** — [Apple Music](https://music.apple.com/us/search?term=David%20Bowie%20The%20Rise%20and%20Fall%20of%20Ziggy%20Stardust) · [Spotify](https://open.spotify.com/search/David%20Bowie%20The%20Rise%20and%20Fall%20of%20Ziggy%20Stardust)
 - **Grateful Dead – American Beauty** — [Apple Music](https://music.apple.com/us/search?term=Grateful%20Dead%20American%20Beauty) · [Spotify](https://open.spotify.com/search/Grateful%20Dead%20American%20Beauty)
 
-## 5. Pink Floyd
+## Pink Floyd
 
 I don't know where to put these guys. They exist within the zeitgeist yet somehow exist underneath it and above it as well.
 
 - **Pink Floyd – The Dark Side of the Moon** — [Apple Music](https://music.apple.com/us/search?term=Pink%20Floyd%20The%20Dark%20Side%20of%20the%20Moon) · [Spotify](https://open.spotify.com/search/Pink%20Floyd%20The%20Dark%20Side%20of%20the%20Moon)
 - **Pink Floyd – The Wall** — [Apple Music](https://music.apple.com/us/search?term=Pink%20Floyd%20The%20Wall) · [Spotify](https://open.spotify.com/search/Pink%20Floyd%20The%20Wall)
 
-## 6. The Church of Soul
+## The Church of Soul
 
 R&B where the sacred and the sensual refuse to sit in separate pews. Gospel
 architecture, worldly stakes. We all live in different Americas.
@@ -88,7 +88,7 @@ architecture, worldly stakes. We all live in different Americas.
 - **Lauryn Hill – The Miseducation of Lauryn Hill** — [Apple Music](https://music.apple.com/us/search?term=Lauryn%20Hill%20The%20Miseducation%20of%20Lauryn%20Hill) · [Spotify](https://open.spotify.com/search/Lauryn%20Hill%20The%20Miseducation%20of%20Lauryn%20Hill)
 - **SZA – SOS** — [Apple Music](https://music.apple.com/us/search?term=SZA%20SOS) · [Spotify](https://open.spotify.com/search/SZA%20SOS)
 
-## 7. Pop as Cultural Event
+## Pop as Cultural Event
 
 Records that briefly became the weather. You don't argue with them; you
 remember where you were.
@@ -100,7 +100,7 @@ remember where you were.
 - **Harry Styles – Harry's House** — [Apple Music](https://music.apple.com/us/search?term=Harry%20Styles%20Harry%27s%20House) · [Spotify](https://open.spotify.com/search/Harry%20Styles%20Harry%27s%20House)
 - **Chappell Roan – The Rise and Fall of a Midwest Princess** — [Apple Music](https://music.apple.com/us/search?term=Chappell%20Roan%20The%20Rise%20and%20Fall%20of%20a%20Midwest%20Princess) · [Spotify](https://open.spotify.com/search/Chappell%20Roan%20The%20Rise%20and%20Fall%20of%20a%20Midwest%20Princess)
 
-## 8. Hip-Hop's Founding Documents
+## Hip-Hop's Founding Documents
 
 The records that decided what rap was allowed to sound like, what it could be
 about, and how loud it was allowed to be about it.
@@ -114,7 +114,7 @@ about, and how loud it was allowed to be about it.
 - **The Notorious B.I.G. – Ready to Die** — [Apple Music](https://music.apple.com/us/search?term=The%20Notorious%20B.I.G.%20Ready%20to%20Die) · [Spotify](https://open.spotify.com/search/The%20Notorious%20B.I.G.%20Ready%20to%20Die)
 - **Missy Elliott – Under Construction** — [Apple Music](https://music.apple.com/us/search?term=Missy%20Elliott%20Under%20Construction) · [Spotify](https://open.spotify.com/search/Missy%20Elliott%20Under%20Construction)
 
-## 9. Concious Rap
+## Concious Rap
 
 Hip-hop that behaves like a film, a memoir, or a concept record. Structural
 ambition takes precedence over any single single. Poetry with beats.
@@ -128,7 +128,7 @@ ambition takes precedence over any single single. Poetry with beats.
 - **Kendrick Lamar – To Pimp a Butterfly** — [Apple Music](https://music.apple.com/us/search?term=Kendrick%20Lamar%20To%20Pimp%20a%20Butterfly) · [Spotify](https://open.spotify.com/search/Kendrick%20Lamar%20To%20Pimp%20a%20Butterfly)
 - **Tyler, The Creator – IGOR** — [Apple Music](https://music.apple.com/us/search?term=Tyler%2C%20The%20Creator%20IGOR) · [Spotify](https://open.spotify.com/search/Tyler%2C%20The%20Creator%20IGOR)
 
-## 10. The Modern Rap Star at Full Volume
+## The Modern Rap Star at Full Volume
 
 Streaming-era mixtape logic scaled up into blockbusters. Self-mythology,
 mood, and vibe as the organizing principle.  Mumble Rap, Triplets... triplets everywhere!
@@ -141,7 +141,7 @@ mood, and vibe as the organizing principle.  Mumble Rap, Triplets... triplets ev
 - **Migos – Culture** — [Apple Music](https://music.apple.com/us/search?term=Migos%20Culture) · [Spotify](https://open.spotify.com/search/Migos%20Culture)
 - **Travis Scott – Astroworld** — [Apple Music](https://music.apple.com/us/search?term=Travis%20Scott%20Astroworld) · [Spotify](https://open.spotify.com/search/Travis%20Scott%20Astroworld)
 
-## 11. Suburban Rebellion
+## Suburban Rebellion
 
 The 90s alt/grunge/pop-punk explosion. Records made by and for kids who had
 everything they needed and were miserable about it anyway. God forbid college be affordable and you don't have the internet to mess you up.
@@ -155,7 +155,7 @@ everything they needed and were miserable about it anyway. God forbid college be
 - **The Offspring – Smash** — [Apple Music](https://music.apple.com/us/search?term=The%20Offspring%20Smash) · [Spotify](https://open.spotify.com/search/The%20Offspring%20Smash)
 - **Foo Fighters – The Colour and the Shape** — [Apple Music](https://music.apple.com/us/search?term=Foo%20Fighters%20The%20Colour%20and%20the%20Shape) · [Spotify](https://open.spotify.com/search/Foo%20Fighters%20The%20Colour%20and%20the%20Shape)
 
-## 12. American Indie's Patron Saints
+## American Indie's Patron Saints
 
 The underground records that everyone else went on to copy. Loose, tossed-off,
 and much smarter than they let on.
@@ -164,7 +164,7 @@ and much smarter than they let on.
 - **Pavement – Slanted and Enchanted** — [Apple Music](https://music.apple.com/us/search?term=Pavement%20Slanted%20and%20Enchanted) · [Spotify](https://open.spotify.com/search/Pavement%20Slanted%20and%20Enchanted)
 - **My Morning Jacket – It Still Moves** — [Apple Music](https://music.apple.com/us/search?term=My%20Morning%20Jacket%20It%20Still%20Moves) · [Spotify](https://open.spotify.com/search/My%20Morning%20Jacket%20It%20Still%20Moves)
 
-## 13. Rage as Genre
+## Rage as Genre
 
 Confrontational guitar records where the political content isn't garnish, it's
 the whole meal. These songs remind me of one thing and one thing only... Tony Hawk's Pro Skater 2.
@@ -172,7 +172,7 @@ the whole meal. These songs remind me of one thing and one thing only... Tony Ha
 - **The Clash – London Calling** — [Apple Music](https://music.apple.com/us/search?term=The%20Clash%20London%20Calling) · [Spotify](https://open.spotify.com/search/The%20Clash%20London%20Calling)
 - **Rage Against the Machine – The Battle of Los Angeles** — [Apple Music](https://music.apple.com/us/search?term=Rage%20Against%20the%20Machine%20The%20Battle%20of%20Los%20Angeles) · [Spotify](https://open.spotify.com/search/Rage%20Against%20the%20Machine%20The%20Battle%20of%20Los%20Angeles)
 
-## 14. The Union Jack Rebooted
+## The Union Jack Rebooted
 
 Britpop and its descendants. Brother fights, guitars, swagger, and a very specific way of turning life into an anthem.
 
@@ -181,7 +181,7 @@ Britpop and its descendants. Brother fights, guitars, swagger, and a very specif
 - **Oasis – (What's the Story) Morning Glory?** — [Apple Music](https://music.apple.com/us/search?term=Oasis%20%28What%27s%20the%20Story%29%20Morning%20Glory%3F) · [Spotify](https://open.spotify.com/search/Oasis%20%28What%27s%20the%20Story%29%20Morning%20Glory%3F)
 - **Arctic Monkeys – Whatever People Say I Am, That's What I'm Not** — [Apple Music](https://music.apple.com/us/search?term=Arctic%20Monkeys%20Whatever%20People%20Say%20I%20Am%2C%20That%27s%20What%20I%27m%20Not) · [Spotify](https://open.spotify.com/search/Arctic%20Monkeys%20Whatever%20People%20Say%20I%20Am%2C%20That%27s%20What%20I%27m%20Not)
 
-## 15. Angrier Brits
+## Angrier Brits
 
 British post-punk melancholy. Reverb-heavy, black-clad, and absolutely certain
 that no one has ever felt this way before (God save the queen).
@@ -189,7 +189,7 @@ that no one has ever felt this way before (God save the queen).
 - **The Smiths – The Queen Is Dead** — [Apple Music](https://music.apple.com/us/search?term=The%20Smiths%20The%20Queen%20Is%20Dead) · [Spotify](https://open.spotify.com/search/The%20Smiths%20The%20Queen%20Is%20Dead)
 - **The Cure – Disintegration** — [Apple Music](https://music.apple.com/us/search?term=The%20Cure%20Disintegration) · [Spotify](https://open.spotify.com/search/The%20Cure%20Disintegration)
 
-## 16. IDK What This is But it Shaped Me. (2001–2007)
+## IDK What This is But it Shaped Me. (2001–2007)
 
 They say your music at 14 is what you continue to gravitate toward. This is it for me, the leather-jacket revival. What is a Julian Cassablancas and why are they so sad?
 
@@ -200,7 +200,7 @@ They say your music at 14 is what you continue to gravitate toward. This is it f
 - **LCD Soundsystem – Sound of Silver** — [Apple Music](https://music.apple.com/us/search?term=LCD%20Soundsystem%20Sound%20of%20Silver) · [Spotify](https://open.spotify.com/search/LCD%20Soundsystem%20Sound%20of%20Silver)
 - **The Killers – Hot Fuss** — [Apple Music](https://music.apple.com/us/search?term=The%20Killers%20Hot%20Fuss) · [Spotify](https://open.spotify.com/search/The%20Killers%20Hot%20Fuss)
 
-## 17. Indie's Chamber-Pop Awakening
+## Indie's Chamber-Pop Awakening
 
 The blog-era wave, the birth of the hipster. Where you never felt more dumb not knowing a band or who did what at Coachella. Literate, orchestral, self-aware, obsessed with sounding grown up while insisting they were still kids.
 
@@ -209,7 +209,7 @@ The blog-era wave, the birth of the hipster. Where you never felt more dumb not 
 - **MGMT – Oracular Spectacular** — [Apple Music](https://music.apple.com/us/search?term=MGMT%20Oracular%20Spectacular) · [Spotify](https://open.spotify.com/search/MGMT%20Oracular%20Spectacular)
 - **Vampire Weekend – Vampire Weekend** — [Apple Music](https://music.apple.com/us/search?term=Vampire%20Weekend%20Vampire%20Weekend) · [Spotify](https://open.spotify.com/search/Vampire%20Weekend%20Vampire%20Weekend)
 
-## 18. Dream States
+## Dream States
 
 Headphone records. Hazy, interior, and built to be listened to alone with the
 lights off.
@@ -218,7 +218,7 @@ lights off.
 - **The Postal Service – Give Up** — [Apple Music](https://music.apple.com/us/search?term=The%20Postal%20Service%20Give%20Up) · [Spotify](https://open.spotify.com/search/The%20Postal%20Service%20Give%20Up)
 - **Beach House – Bloom** — [Apple Music](https://music.apple.com/us/search?term=Beach%20House%20Bloom) · [Spotify](https://open.spotify.com/search/Beach%20House%20Bloom)
 
-## 19. Bodies on the Dancefloor
+## Bodies on the Dancefloor
 
 Dance-pop as spiritual practice. A dance church if you will (IYKYK). Records whose highest ambition is to make you
 move, and which take that ambition extremely seriously.
@@ -228,7 +228,7 @@ move, and which take that ambition extremely seriously.
 - **Robyn – Body Talk** — [Apple Music](https://music.apple.com/us/search?term=Robyn%20Body%20Talk) · [Spotify](https://open.spotify.com/search/Robyn%20Body%20Talk)
 - **Charli XCX – Brat** — [Apple Music](https://music.apple.com/us/search?term=Charli%20XCX%20Brat) · [Spotify](https://open.spotify.com/search/Charli%20XCX%20Brat)
 
-## 20. Craft Over Concept
+## Craft Over Concept
 
 Let's play that Guitar. No big statement, no scene, no era to represent,
 just an extraordinary command of the instrument that rewards close listening.
